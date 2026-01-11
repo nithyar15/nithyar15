@@ -1,12 +1,12 @@
-# Hi, I’m Nithya 👋
+# Hi, I’m Nithya! 👋
 
-I’m a Computer Science graduate student with hands-on experience building **production-grade AI systems** at the intersection of **machine learning, generative AI, and large-scale systems**. My work spans research, engineering, and deployment — with a strong focus on turning ambiguous ideas into reliable, real-world solutions.
+I’m a Computer Science graduate student based in Boston, MA with hands-on experience building **production-grade AI systems** at the intersection of **machine learning, generative AI, and large-scale systems**. My work spans research, engineering, and deployment — with a strong focus on turning ambiguous ideas into reliable, real-world solutions.
 
 Currently, I work as an **AI Engineer Intern at Dassault Systèmes (SOLIDWORKS)**, where I build AI-driven design automation systems and contribute to production-facing AI tooling used in CAD workflows. I’ve also worked on distributed ML systems, NLP research, and applied ML projects in healthcare and enterprise environments.
 
 ---
 
-## 🔧 What I Work On
+## What I Work On
 
 - **Generative AI & LLM Systems**  
   - RAG pipelines, agentic workflows, hallucination-aware generation  
@@ -59,7 +59,7 @@ Currently, I work as an **AI Engineer Intern at Dassault Systèmes (SOLIDWORKS)*
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages:** Python, C++, Java, SQL  
 **ML / AI:** PyTorch, TensorFlow, scikit-learn, Hugging Face  
@@ -83,7 +83,7 @@ Currently, I work as an **AI Engineer Intern at Dassault Systèmes (SOLIDWORKS)*
 
 ---
 
-## 🌱 What I Care About
+## What I Care About
 
 I’m especially interested in:
 - AI systems that **ship**, not just prototype  
@@ -92,10 +92,22 @@ I’m especially interested in:
 - Building tools that help *other* engineers and users work better  
 
 ---
+## Outside of Code
 
+When I’m not coding, you’ll usually find me:
+
+- 🏃‍♀️ Running to clear my head  
+- ☕ Brewing or hunting for good coffee  
+- 🎧 Listening to music pretty much all the time  
+- ✈️ Geeking out over airplanes and aviation  
+- 🌍 Traveling when I get the chance  
+- 🏏 Watching cricket (and getting way too invested)  
+- 📚 Reading whenever I can slow down
+  
+---
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 📧 Email: nithyarajkum@umass.edu  
 
-If you’re working on **applied AI, ML systems, GenAI infrastructure, or research that actually makes it to production**, I’d love to chat.
+If you’re working on **applied AI, ML systems, GenAI infrastructure, or research that actually makes it to production**, I’d love to chat!
